@@ -1,7 +1,6 @@
 package br.uema.poo;
 
 import br.uema.poo.financeiro.Conta;
-import br.uema.poo.geometria.Ponto;
 
 public class ClienteFinanceiro {
 
